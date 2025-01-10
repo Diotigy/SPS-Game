@@ -1,22 +1,3 @@
-const object1 = {
-  name: 'nandan',
-  age: 20,
-  email: 'nandanhpsetty@gmail.com',
-  city: 'bengaluru',
-}
-
-const object2 = object1;
-
-console.log(object1);
-
-object2.age = 21;
-
-console.log(object1);
-
-console.log(object1 === object2);
-
-
-
 function newGame(){
   score.win = 0; 
   score.losses = 0; 
