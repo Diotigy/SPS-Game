@@ -1,0 +1,13 @@
+body{
+  background-color: #262626;
+}
+
+button{
+  border-style: none;
+  height: 30px;
+  width: 80px;
+  border-radius: 10px;
+  margin:4px;
+  cursor: pointer;
+}
+
